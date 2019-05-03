@@ -1,8 +1,8 @@
 # WeChat
-## 1、ViewPager的适配器
-FragmentPagerAdapter:
-    onDestoryView,onDesory
-    fragment并没有销毁
+## 1、ViewPager的适配器 <br>
+FragmentPagerAdapter:<br>
+    onDestoryView,onDesory<br>
+    fragment并没有销毁<br>
 FragmentStatePagerAdapter:
     onDestoryView,onDesory,onCreate,onCreateView
     fragment被销毁
