@@ -1,1 +1,1 @@
-include ':app', ':wechat_app'
+include ':app', ':wechat_app', ':recorder'
